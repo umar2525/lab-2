@@ -1,4 +1,4 @@
-import java.util.Scanner:
+import java.util.Scanner;
 public class L22{
 	public static void main(String[] args){
 		Scanner s= new Scanner(System.in);
